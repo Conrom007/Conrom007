@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePandaBrah and I'm Postgraduate Data Science student (MSc Data Science w/ Bioinformatics modules).
 - 👀 I’m interested in Data Science and more specifically in the field of Bioinformatics. I have various levels of self-taught coding experience and I have a STEM background
-  from school and self study but a BSc in Finance so anything other than Advanced Math/ Statistics has been on a self taught basis.
+  from school and self study. I also have a BSc in Finance with Advanced Math and Statistics modules and as a result I have Industry experience.
 - 🌱 I’m currently learning Data Science while slowly planning to start incorporating more and more data from Bio. & Med. studies.
 - 💞️ I’m looking to collaborate on various Data Science and, in the near future, Bioinformatics projects to gain experience and establish a Portfolio.
 - 📫 To reach me email me at: tpb.data.science@gmail.com .
